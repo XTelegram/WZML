@@ -25,7 +25,6 @@ pillow
 psutil
 pybase64
 pycountry
-pymongo
 pyrogram
 python-dotenv
 python-magic
